@@ -1,0 +1,46 @@
+<!--<h5  style="color:Black;font-family:verdana;">Ingrese los siguientes datos: </h5>
+<form>
+  <label for="Ncédula"> Número de Cédula:</label><br>
+  <input type="text" id="Ncédula" Cédula="Ncédula"><br>
+  <label for="Nombres">Nombres:</label><br>
+  <input type="text" id="Nombres" Nombres="Nombres"><br>
+ <label for="Apellidos">Apellidos:</label><br>
+  <input type="text" id="Apellidos" Apellidos="Apellidos"><br>
+ <label for="Apellidos">Edad:</label><br>
+  <input type="text" id="Edad" Edad="Edad"><br>
+<label for="NTelefono">Número de teléfono:</label><br>
+  <input type="text" id="NTeléfono" Teléfono="NTeléfono"><br>
+  <label for="CElectrónico">Correo Electrónico:</label><br>
+  <input type="text" id="CElectrónico" Correo="CElectrónico"><br>
+  <label for="Dirección">Dirección:</label><br>
+  <input type="text" id="Dirección" Dirección="Dirección">
+
+<h5  style="color:Black;font-family:verdana;">Sexo:</h5>
+
+<form>
+  <input type="radio" id="Maculino" name="sexo" value="Maculino">
+  <label for="Masculino">Masculino</label><br>
+  <input type="radio" id="Femenino" name="sexo" value="Femenino">
+  <label for="Femenino">Femenino</label><br>
+</form>
+
+<h5  style="color:Black;font-family:verdana;">Facultad:</h5>
+
+<form>
+  <input type="radio" id="Ciencias Administrativas" name="facultad" value="Ciencias Administrativas">
+  <label for="Ciencias Administrativas">Ciencias Administrativas</label><br>
+  <input type="radio" id="Ciencias Matemáticas y Físicas" name="facultad" value="Ciencias Matemáticas y Físicas">
+  <label for="Ciencias Matemáticas y Físicas">Ciencias Matemáticas y Físicas</label><br> 
+ <input type="radio" id="Ciencias Económicas" name="facultad" value="Ciencias Económicas">
+  <label for="Ciencias Económicas">Ciencias Económicas</label><br>
+  <input type="radio" id="Otra" name="facultad" value="Otra">
+  <label for=Otra">Otra</label><br>
+</form>
+
+<h5  style="color:Black;font-family:verdana;">Escriba:</h5>
+
+  <label for="Facultad">Facultad:</label><br>
+  <input type="text" id="Facultad" Facultad="Facultad"><br>
+
+
+<h5  style="color:Black;font-family:verdana;">Semestre:</h5>-->
